@@ -1,6 +1,6 @@
 # Professor Gemini: Seu Assistente Escolar Inteligente 🧑‍🏫
 
-Professor Gemini é um assistente escolar inteligente baseado em IA que ajuda estudantes com seus estudos. Ele oferece recursos como:
+Professor Gemini é um assistente escolar inteligente baseado em IA que ajuda estudantes com seus estudos, voltado a alunos do ensino fundamental e médio. Ele oferece recursos como:
 
 - Reforço de matérias escolares: fornecendo dicas e materiais de estudo.
 - Desafio diário: testando seus conhecimentos com exercícios interativos.
